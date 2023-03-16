@@ -1,0 +1,8 @@
+#ifndef OS_PROJEKAT_USERMAIN_HPP
+#define OS_PROJEKAT_USERMAIN_HPP
+
+
+
+
+void userMain();
+#endif //OS_USERMAIN_HPP
